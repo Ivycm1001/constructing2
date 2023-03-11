@@ -1,0 +1,94 @@
+html {
+    background-color: antiquewhite;
+    background-image: url(temp 2/bg1copy.jpg)
+}
+
+h1{
+    font-family: cursive;
+    font-weight: bolder;
+    position: static;
+    font-size: 50;
+    margin: 0 500;
+}
+
+img{
+    margin: 0 640;
+    border: 2px solid maroon;
+    border-radius: 100px;
+    opacity: .7;
+}
+img:hover{
+    opacity: 1;
+}
+
+#left{
+    margin: 0 550px;
+}
+button{
+    background-color: antiquewhite;
+    margin:3px;
+    padding: 10px;
+    border:2px solid maroon;
+        
+}
+
+button a{
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+button:hover{
+    background-color: maroon;
+}
+a:hover{
+    color: white;
+}
+
+#middle{
+    margin-top: 15px;
+    border: 2px dashed maroon;
+}
+h3{
+    margin: 0 650;
+    font-family: cursive;
+    font-size: 30;
+    font-style: italic;
+}
+
+p{
+    margin: 0 200 15;
+    font-size: 15px;
+    padding: 20px;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+
+#right{
+    border: 2px dashed maroon;
+    padding:10px;
+    margin-top: 15px;
+
+}
+
+#right img{ 
+    margin: 2 110;
+    margin-left: 80
+}
+
+#right img:hover{
+    opacity: 1;
+}
+
+#footer {
+    border: 2px dashed maroon;
+    margin-top: 15px;
+}
+
+#footer footer{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 15 200 15;
+    text-align: center
+}
